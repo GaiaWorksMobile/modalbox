@@ -1,5 +1,5 @@
 {
-  "name": "react-native-modalbox",
+  "name": "react-native-modalbox-two",
   "version": "1.3.3",
   "description": "A <Modal/> component for react-native",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maxs15/react-native-modalbox.git"
+    "url": "git+https://github.com/jsntghf/modalbox"
   },
   "keywords": [
     "react-component",
@@ -24,7 +24,7 @@
   "author": "Maxime Mezrahi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maxs15/react-native-modalbox/issues"
+    "url": "https://https://github.com/jsntghf/modalbox"
   },
-  "homepage": "https://github.com/maxs15/react-native-modalbox#readme"
+  "homepage": "https://https://github.com/jsntghf/modalbox#readme"
 }
